@@ -1,6 +1,6 @@
 👋 Hello, I'm Stylianos Mavrianos
 
-🌍 Based in Gernamy | 🌄 A seasoned traveler who has called Spain, Netherlands, Germany, and Cyprus home
+🌍 Based in Gernamy | 🌄 A seasoned traveler who has called Spain, Netherlands, Germany, Greece, and Cyprus home
 
 👨‍💻 Data Scientist | 🐍 Python | 📊 R | 📈 Data Enthusiast
 
