@@ -26,6 +26,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-0.23.1-orange?style=flat&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-1.18.4-blue?style=flat&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-1.4.1-orange?style=flat&logo=scipy&logoColor=white)
+![NetworkX](https://img.shields.io/badge/NetworkX-3.3-blue?style=flat&logo=NetworkX&logoColor=white)
 
 ---
 
